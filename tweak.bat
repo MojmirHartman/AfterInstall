@@ -1,2 +1,2 @@
 :: Remove bloatware
-powershell -ExecutionPolicy Bypass -File "%~dp0bloatware.ps1"
+powershell -ExecutionPolicy Bypass -File "%~dp0scripts\bloatware.ps1"
