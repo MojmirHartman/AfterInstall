@@ -1,6 +1,9 @@
 # AfterInstall
 Windows 10 tweak
 
-Remove bloatware after Windows 10 install and anytime
+Remove bloatware after Windows 10 install and anytime.
 
-usage: run bat file with admin rights
+... Usage: run tweak.bat file with admin rights
+
+... Customize what to remove: edit scripts/bloatware.ps1
+
